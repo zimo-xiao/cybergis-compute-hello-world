@@ -1,0 +1,6 @@
+{
+    "name": "Zimo Xiao's Hello World",
+    "description": "This is for CyberGIS RIF meeting demo only",
+    "container": "python",
+    "execution_state": "python main.py"
+}
